@@ -1,0 +1,16 @@
+{
+    "name": "dn_vuecolor",
+    "version": "2.7.1",
+    "main": "dist/vue-color.min.js",
+    "i18n": [],
+    "homepage": "https://github.com/xiaokaike/vue-color#readme",
+    "keywords": [
+        "color",
+        "vuejs"
+    ],
+    "author": {
+        "name": "xiaokai",
+        "email": "kexiaokai@gmail.com"
+    },
+    "license": "MIT"
+}
