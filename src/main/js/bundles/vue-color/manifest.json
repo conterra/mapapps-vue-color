@@ -1,6 +1,6 @@
 {
     "name": "dn_vuecolor",
-    "version": "2.7.1",
+    "version": "2.7.1-SNAPSHOT",
     "main": "dist/vue-color.min.js",
     "i18n": [],
     "homepage": "https://github.com/xiaokaike/vue-color#readme",
