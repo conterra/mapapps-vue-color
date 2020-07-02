@@ -13,5 +13,13 @@
         "name": "xiaokai",
         "email": "kexiaokai@gmail.com"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "CSS-Themes-Extension": [
+        {
+            "name": "*",
+            "files": [
+                "./css/styles.css"
+            ]
+        }
+    ]
 }
