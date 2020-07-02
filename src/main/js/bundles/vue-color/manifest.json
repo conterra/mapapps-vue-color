@@ -2,6 +2,7 @@
     "name": "dn_vuecolor",
     "version": "2.7.2-SNAPSHOT",
     "main": "dist/vue-color.min.js",
+    "layer": "",
     "i18n": [],
     "homepage": "https://github.com/xiaokaike/vue-color#readme",
     "keywords": [
