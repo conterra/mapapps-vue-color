@@ -4,6 +4,7 @@
     "main": "dist/vue-color.min.js",
     "layer": "",
     "i18n": [],
+    "productName": "devnet-mapapps-vue-color",
     "homepage": "https://github.com/xiaokaike/vue-color#readme",
     "keywords": [
         "color",
