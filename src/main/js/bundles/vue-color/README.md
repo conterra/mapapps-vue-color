@@ -1,4 +1,4 @@
-# dn_vuecolor
+# vue-color
 
 This bundle allows you to use vue-color components in your map.apps bundle.
 It uses xiaokaike's Vue Color Pickers: https://github.com/xiaokaike/vue-color
