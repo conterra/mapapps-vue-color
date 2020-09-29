@@ -6,7 +6,7 @@ It uses xiaokaike's Vue Color Pickers: https://github.com/xiaokaike/vue-color
 ## Usage
 
 ```js
-import { Photoshop } from 'vue-color'
+import { Photoshop } from 'dn_color'
 
 new Vue({
   components: {
