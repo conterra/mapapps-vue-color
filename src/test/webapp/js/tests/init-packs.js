@@ -13,4 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import i18n from "dojo/i18n!./nls/bundle";
+if (require.packs["@vue/test-utils"]) {
+    require.packs["@vue/test-utils"].main = "dist/vue-test-utils.umd";
+}
+if (require.packs["chai"]) {
+    require.packs["chai"].main = "chai";
+}

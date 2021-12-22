@@ -35,6 +35,18 @@ gulp.task("default",
     gulp.series(
         "copy-resources",
         "themes-copy",
-        gulp.parallel("js-transpile", "themes-compile")
+        gulp.parallel(
+            //"js-lint",
+            //"style-lint",
+            "js-transpile",
+            "themes-compile"
+        )
+    )
+);
+
+gulp.task("compress",
+    gulp.series(
+        "default",
+        "themes-compress"
     )
 );
