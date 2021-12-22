@@ -642,7 +642,7 @@
                                     <goal>gulp</goal>
                                 </goals>
                                 <configuration>
-                                    <arguments>run-browser-tests --tests http://localhost:${jetty.server.port}/resources/jsregistry/root/@conterra/mapapps-mocha-runner/latest/mocha.html?boot=/js/tests/test-init.js&amp;timeout=5000&amp;test=vue-color/tests/all&amp;reporter=tap</arguments>
+                                    <arguments>run-browser-tests --tests http://localhost:${jetty.server.port}/resources/jsregistry/root/@conterra/mapapps-mocha-runner/latest/mocha.html?boot=/js/tests/test-init.js&amp;timeout=5000&amp;test=dn_vuecolor/tests/all&amp;reporter=tap</arguments>
                                 </configuration>
                             </execution>
                         </executions>
