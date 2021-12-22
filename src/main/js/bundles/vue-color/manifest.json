@@ -1,6 +1,6 @@
 {
     "name": "dn_vuecolor",
-    "version": "2.7.2-SNAPSHOT",
+    "version": "2.8.1-SNAPSHOT",
     "main": "dist/vue-color.min.js",
     "layer": "",
     "i18n": [],
